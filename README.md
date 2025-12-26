@@ -1,5 +1,9 @@
 # Remit Reminder Bot
 
+## Open Exchange Rates Setup (Get APP_ID)
+1. **Create Account**: Go to [Open Exchange Rates](https://openexchangerates.org/signup/free) and sign up for a **Free** plan.
+2. **Get App ID**: Once logged in, go to your dashboard/App IDs section to find your **App ID**. This will be used as your `APP_ID` environment variable.
+
 ## Telegram Setup
 To get this working, you need a Bot Token and your Chat ID.
 
